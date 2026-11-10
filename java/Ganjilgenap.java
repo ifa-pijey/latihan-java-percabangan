@@ -8,7 +8,7 @@ public class Ganjilgenap {
         int angka = in.nextInt();
 
         if (angka % 2 == 0) {
-            System.out.println("Angka Genap");
+            System.out.println("Hasil: Angka Genap");
         } else {
             System.out.println("Angka Ganjil");
         }
